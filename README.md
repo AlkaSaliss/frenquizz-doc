@@ -1,6 +1,11 @@
 **Politique de Confidentialité de FreNQuizz**
 
-**Dernière mise à jour :** 24/04/2025
+**Dernière mise à jour :** 25/04/2025
+
+-----
+> ***Note Importante***: 
+Cette application n'est affiliée à aucun service gouvernemental. Elle est fournie gratuitement comme un support d'aide pour se préparer aux questions couramment posées lors de l'entretien que doivent passer les candidats à l'acquisition de la nationalité Française. Une partie des questions est basée sur ma propre expérience (ayant déjà passé cet entretien) et une partie de ces questions est tirée du livret de citoyen: https://www.immigration.interieur.gouv.fr/Integration-et-Acces-a-la-nationalite/La-nationalite-francaise/Le-livret-du-citoyen
+-----
 
 Bienvenue sur FreNQuizz ! Cette politique de confidentialité explique comment l'application collecte, utilise, partage et protège les informations des utilisateurs ("vous") de l'application mobile FreNQuizz ("Application").
 
